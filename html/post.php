@@ -7,10 +7,8 @@
   <title>Document</title>
 </head>
 <body>
-  <p>何かお話してください</p>
-  <form action="post.php" method="post">
-    <input type="text" name="a">
-    <input type="submit" value="send">
-  </form>
+  <?php
+    print $_POST["a"];
+  ?>
 </body>
 </html>
