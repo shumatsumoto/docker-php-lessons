@@ -16,7 +16,7 @@
 
 ## :pencil2: Overview
 
-Build a PHP execution environment using Docker
+Build a PHP execution environment using Docker.
 
 ## :hammer: Requirement
 
